@@ -1,0 +1,12 @@
+# Configuration file for the application
+
+# Server settings
+server:
+  host: "localhost"
+  port: 8080
+
+# Database settings
+database:
+  user: "dbuser"
+  password: "dbpassword"
+  name: "dbname"
